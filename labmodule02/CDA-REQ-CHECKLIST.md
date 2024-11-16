@@ -6,7 +6,7 @@
 
 - [X] [PIOT-CDA-02-000](https://github.com/programming-the-iot/book-exercise-tasks/issues/15)
 - [X] [PIOT-CDA-02-001](https://github.com/programming-the-iot/book-exercise-tasks/issues/25)
-- [ ] [PIOT-CDA-02-002](https://github.com/programming-the-iot/book-exercise-tasks/issues/24)
+- [X] [PIOT-CDA-02-002](https://github.com/programming-the-iot/book-exercise-tasks/issues/24)
 - [ ] [PIOT-CDA-02-003](https://github.com/programming-the-iot/book-exercise-tasks/issues/21)
 - [ ] [PIOT-CDA-02-004](https://github.com/programming-the-iot/book-exercise-tasks/issues/68)
 - [ ] [PIOT-CDA-02-005](https://github.com/programming-the-iot/book-exercise-tasks/issues/23)
